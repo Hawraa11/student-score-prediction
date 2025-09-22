@@ -1,5 +1,3 @@
-# student-score-prediction
-Predict students’ exam scores using study habits and key performance factors with Python and linear regression.
 # Student Score Prediction
 
 A predictive model that estimates students’ exam scores based on their study habits and key performance factors.
